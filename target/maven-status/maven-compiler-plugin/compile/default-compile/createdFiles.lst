@@ -1,0 +1,3 @@
+br\com\fiap\repository\ProdutoRepository.class
+br\com\fiap\controller\ProdutoController.class
+br\com\fiap\model\ProdutoModel.class
